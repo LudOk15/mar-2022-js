@@ -42,13 +42,11 @@ switch (+prompt('enter day number')) {
         console.log('Thursday');
         break;
     case 5:
-
         console.log('Friday');
         break;
     case 6:
         console.log('Saturday');
         break;
-
     case 7:
         console.log('Sunday');
         break;
