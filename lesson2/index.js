@@ -12,7 +12,7 @@ if (time >= 0 && time <= 15) {
 } else if (time >= 30 && time <= 45) {
     console.log('III path');
 } else if (time >= 45 && time <= 60) {
-    console.log('II path');
+    console.log('IV path');
 } else {
     console.log('Не коректно введене число')
 }
